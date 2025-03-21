@@ -31,3 +31,7 @@ Mi objetivo es seguir creciendo como **desarrollador backend**, profundizando en
 
 ## 🤝 ¡Vamos a construir algo increíble juntos! 🚀
 Si te interesa colaborar en proyectos o simplemente intercambiar ideas, ¡contáctame!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/pablo-emilio-méndez-00b3641b1)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](pmendezpuentes@gmail.com
+)
