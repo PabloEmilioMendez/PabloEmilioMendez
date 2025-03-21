@@ -1,16 +1,34 @@
-## Hi there 👋
+                                                                                                                      Hola, soy Pablo Mendez
+# 🚀 Bienvenido a mi perfil de GitHub
 
-<!--
-**PabloEmilioMendez/PabloEmilioMendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 ¿Quién soy?
+¡Hola! Soy un **Desarrollador Full Stack** con experiencia en **JavaScript, Node.js, Nest.js y TypeScript**. Me apasiona crear aplicaciones escalables y eficientes, siempre buscando mejorar mis habilidades y aprender nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 ¿Qué hago?
+- Desarrollo de **APIs REST** y **microservicios** con Nest.js.
+- Implementación de **arquitecturas modulares** y buenas prácticas.
+- Integración de **bases de datos** con TypeORM.
+- Aplicación de **pruebas unitarias** y validaciones con DTOs.
+
+---
+
+## 🎯 ¿A dónde me dirijo?
+Mi objetivo es seguir creciendo como **desarrollador backend**, profundizando en seguridad, optimización y arquitecturas escalables. Estoy interesado en trabajar con **microservicios, autenticación segura y desarrollo cloud**.
+
+---
+
+## 🛠️ ¿Qué tecnologías uso?
+
+| Frontend  | Backend | Base de Datos | Herramientas |
+|-----------|--------|--------------|--------------|
+| ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) | ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql) | ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker) |
+| ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react) | ![NestJS](https://img.shields.io/badge/-NestJS-red?style=flat-square&logo=nestjs) | ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb) | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=githubactions) |
+
+---
+
+## 🤝 ¡Vamos a construir algo increíble juntos! 🚀
+Si te interesa colaborar en proyectos o simplemente intercambiar ideas, ¡contáctame!
