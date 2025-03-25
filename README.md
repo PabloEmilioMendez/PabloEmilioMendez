@@ -17,8 +17,6 @@ Soy un apasionado **Desarrollador Full Stack** especializado en **JavaScript, No
 ✨ **Base de Datos**:
 - Integración fluida con **TypeORM** y bases de datos relacionales/noSQL como **PostgreSQL** y **MongoDB**.
 
-✨ **Calidad**:
-- Aplicación de pruebas unitarias y validaciones robustas con DTOs.
 
 ---
 
