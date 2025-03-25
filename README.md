@@ -27,7 +27,7 @@ Mi objetivo es seguir creciendo como **desarrollador backend**, profundizando en
 
 | Frontend  | Backend   | Base de Datos | Herramientas       |
 |-----------|-----------|---------------|--------------------|
-| ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) | ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql) | ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker) |
+| ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) | ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql) |
 | ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)       | ![NestJS](https://img.shields.io/badge/-NestJS-red?style=flat-square&logo=nestjs)      | ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb) | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=githubactions) |
 
 ---
@@ -37,4 +37,5 @@ Mi objetivo es seguir creciendo como **desarrollador backend**, profundizando en
 Si te interesa colaborar en proyectos o simplemente intercambiar ideas, ¡contáctame!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablo-emilio-m%C3%A9ndez-00b3641b1/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:pmendezpuentes@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:pmendezpuentes@gmail.com
+)
