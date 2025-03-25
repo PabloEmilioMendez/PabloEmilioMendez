@@ -47,9 +47,3 @@ Si te interesa construir algo increíble conmigo, no dudes en contactarme:
 🌐 **LinkedIn**: [Pablo Emilio Méndez](https://www.linkedin.com/in/pablo-emilio-m%C3%A9ndez-00b3641b1/)  
 📧 **Gmail**: [pmendezpuentes@gmail.com](mailto:pmendezpuentes@gmail.com)
 
----
-
-🎨 **Estilo optimizado**:
-- Estructura con íconos y emojis para atraer la atención.
-- Frases más compactas y poderosas que comunican tu experiencia.
-- Separación en secciones claras y llamativas.
